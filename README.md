@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+0x0A-configuration_management
+=======
 ## 0x04. Python - More Data Structures: Set, Dictionary
 
 Learning Objectives of this tasks includes:
