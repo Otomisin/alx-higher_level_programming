@@ -3,6 +3,7 @@
 Write a function that adds 2 tuples.
 """
 
+
 def add_tuple(tuple_a=(), tuple_b=()):
     lenA = len(tuple_a)
     lenB = len(tuple_b)
